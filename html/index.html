@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChungusMake++</title>
+    <script type="text/javascript" src="eel.js"></script>
+    <link rel="stylesheet" href="fonts.css">
+    <link rel="stylesheet" href="simple.css"/>
+    <script type="text/javascript" src="register_inputs.js" defer></script>
+</head>
+<body>
+    <div style="text-align: center;" class="roboto-font">
+        <h1>Chungus Make++</h1>
+        <div class="chivo-mono-font">
+            <h3>Dependencies: </h3>
+            <ul style="list-style-type: none; text-align: left; display: inline-block;">
+                <li><label><input type="checkbox" id="gtk4"/> GTK 4.0</label></li>
+                <li><label><input type="checkbox" id="fltk"/> FLTK</label></li>
+                <li><label><input type="checkbox" id="ncurses"/> NCurses</label></li>
+                <li><label><input type="checkbox" id="pthread"/> PThread</label></li>
+            </ul>
+            <br/>
+            <input type="button" value="Generate Makefile" style="background-color: orange; border-radius: 5px; border-color: black;" class="roboto-font" onclick="reg_libs(); eel.generate_makefile();"/>
+        </div>
+    </div>
+</body>
+</html>
