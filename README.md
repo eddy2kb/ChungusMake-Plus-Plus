@@ -21,8 +21,8 @@ Please note: ChungusMake++ (as of right now) is not very advanced and the Makefi
 
 # Supported Platforms
 
-	+ Linux
-	+ Mac (untested)
++ Linux
++ Mac (untested)
 
 
 
