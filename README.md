@@ -13,8 +13,9 @@ Please note: ChungusMake++ (as of right now) is not very advanced and the Makefi
 	+ PThread
 
 + ## Coming Soon
+	+ Project will be remade entirely with C++ before any more major changes will happen.
 	+ JSON file listing dependencies and other key features (command-line interface used to generate a Makefile from the JSON file and run it).
-	+ Command-line interface (written in C).
+	+ Command-line interface.
 	+ More dependency options.
 	+ Plugins/mods/add-ons.
 
