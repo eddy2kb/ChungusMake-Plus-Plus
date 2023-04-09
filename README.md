@@ -17,3 +17,12 @@ Please note: ChungusMake++ (as of right now) is not very advanced and the Makefi
 	+ Command-line interface (written in C).
 	+ More dependency options.
 	+ Plugins/mods/add-ons.
+
+
+# Supported Platforms
+
+	+ Linux
+	+ Mac (untested)
+
+
+
