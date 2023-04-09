@@ -26,7 +26,7 @@ Please note: ChungusMake++ (as of right now) is not very advanced and the Makefi
 + Linux
 + Mac (untested)
 
-# Things to Kepp in Mind
+# Things to Keep in Mind
 
 + ChungusMake++ will run on Windows, but the Makefiles that it generates might not work on Windows. This tool is mostly useless on Windows, since there are fancy IDEs like VS (not VSCode), still, **the Makefiles might still work on Windows**.
 
